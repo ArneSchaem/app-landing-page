@@ -11,8 +11,8 @@ import { FaYoutube } from "react-icons/fa";
 
 const Navbar = () => {
   return (
-    <div className=" relative max-w-[1170px]">
-      <div className=" ml-4 mr-4 md:mt-[1.6rem] sm:mt-[1.6rem] lg:mt-[2.19rem] h-[1.5] max-w-[1170px] hidden sm:flex">
+    <div className="mx-auto relative max-w-[1170px]">
+<div className=" md:mt-[1.6rem] sm:mt-[1.6rem] lg:mt-[2.19rem] h-[1.5] max-w-[1170px] hidden sm:flex">
         <div className="flex  border-green-600 gap-[48px]">
           <div className="flex w-[183.94px] h-[1.5]  gap-[18px]">
             <div className=" justify-center items-center inline-flex ">

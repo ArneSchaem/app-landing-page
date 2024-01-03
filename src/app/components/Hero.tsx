@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Hero = () => {
   return (
-    <section >
+    <section className="w-auto h-auto bg-footer-bg" >
       <div>
        
       </div>
